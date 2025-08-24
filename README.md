@@ -36,3 +36,9 @@ A simple and intuitive To-Do List application to help users organize,
 
 - **Alert on empty input:**  
   ![Alert on empty input](screenshots/alert.png)
+
+## Technologies or Framework Used
+
+1) React - Javascript library for building user interfaces.
+2) Bootstrap - Front-end framework for styling, responsive design, and ready-to-use components.
+3) JavaScript / HTML / CSS – Core web technologies that support React and Bootstrap.
