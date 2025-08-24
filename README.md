@@ -25,8 +25,14 @@ A simple and intuitive To-Do List application to help users organize,
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Add a Todo Task](screenshots/add.png)
-![Deleting a Task](screenshots/delete.png)
-![Shows alert message if you click the add button without entering a title or description](screenshots/alert.png)
+- **Home Screen:**  
+  ![Home Screen](screenshots/home.png)
 
+- **Add a Todo Task:**  
+  ![Add a Todo Task](screenshots/add.png)
+
+- **Deleting a Task:**  
+  ![Deleting a Task](screenshots/delete.png)
+
+- **Alert on empty input:**  
+  ![Alert on empty input](screenshots/alert.png)
