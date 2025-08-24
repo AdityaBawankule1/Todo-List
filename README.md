@@ -7,9 +7,13 @@ A simple and intuitive To-Do List application to help users organize,
 ## Features
 
 -> Add new tasks
+
 -> Delete tasks
--> Persistent Storage - all the tasks are saved even if you close or refresh the browser,
+
+-> Persistent Storage - all the tasks are saved even if you close or refresh the browser.
+
 -> Responsive design for Mobile and desktop
+
 -> Simple and user-friendly interface
 
 ## Usage
