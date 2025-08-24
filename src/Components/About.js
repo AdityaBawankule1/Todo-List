@@ -1,14 +1,15 @@
-import React from 'react'
+import React from "react";
 
 const About = () => {
   return (
     <div>
-        This is an about component.
-        <p>lorem34
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
-        </p>
+      <p>
+        A simple and intuitive To-Do List application to help users organize,
+        manage, and track their daily tasks efficiently. Features include adding
+        and deleting tasks, with a clean and user-friendly interface.
+      </p>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;
